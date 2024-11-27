@@ -1,3 +1,5 @@
+# Calculator App
+
 This is a simple calculator using HTML, CSS and JavaScript. 
 It also comes with a server version that can be installed using Apache Tomcat.
 
