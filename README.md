@@ -2,6 +2,7 @@
 # Simple Calculator App
 
 This is a simple calculator using HTML, CSS and JavaScript. It also comes with a server version that can be installed using Apache Tomcat.
+
 ![calculator](https://github.com/user-attachments/assets/53079de1-5cc0-4b11-9286-6c1c3ee6a3de)
 
 
