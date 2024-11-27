@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Calculator</title>
-    <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/css/styles.css">
+    <link rel="stylesheet" href="./resources/css/styles.css">
 </head>
 <body>
     <div id="calculator">
@@ -32,6 +32,6 @@
         </div>
     </div>
 
-    <script src="${pageContext.request.contextPath}/resources/js/calculator.js"></script>
+    <script src="./resources/js/calculator.js"></script>
 </body>
 </html> 
